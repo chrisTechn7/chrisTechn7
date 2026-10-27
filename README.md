@@ -6,11 +6,12 @@ My interests include infrastructure modernization, process improvement, technica
 
 ## 🛠️ Areas of Focus
 
-- 🌐 **IT Infrastructure** — Servers, networking, and virtualization
-- 🔐 **Microsoft & Security** — Microsoft environments, endpoint management, and IT security
-- 💾 **Reliability & Operations** — Backup, troubleshooting, and operational stability
-- 📋 **Technical Coordination** — Project management, documentation, and process improvement
-- 🤖 **AI & Automation** — AI-assisted technical workflows, automation, and quality assurance
+- 🌐 **IT Operations & Infrastructure Coordination** — Workplace IT, infrastructure planning, and collaboration with external service providers
+- 🖥️ **Microsoft & Workplace Administration** — Windows clients, user administration, Microsoft 365 applications, and troubleshooting
+- 🔐 **IT Security & Reliability** — Endpoint protection, access management, security awareness, and operational continuity
+- 📋 **Technical Coordination & Knowledge Management** — Hardware lifecycle, vendor coordination, documentation, and process standardization
+- 🤖 **AI-Assisted Workflows** — Requirements definition, automation, testing, validation, and practical applications of AI tools
+- 🏗️ **CAD Environments** — Supporting engineering applications and improving technical planning workflows
 
 ## 📄 Featured Project
 
