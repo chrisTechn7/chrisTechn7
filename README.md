@@ -13,6 +13,17 @@ My interests include infrastructure modernization, process improvement, technica
 - 🤖 **AI-Assisted Workflows** — Requirements definition, automation, testing, validation, and practical applications of AI tools
 - 🏗️ **CAD Environments** — Supporting engineering applications and improving technical planning workflows
 
+## 💻 Software Development – Academic Experience
+
+During my part-time Computer Science diploma (completed in October 2026), I gained hands-on experience in frontend and backend development, software engineering, and database-driven applications.
+
+- **Frontend:** JavaScript, React, HTML/CSS, component-based UI development
+- **Backend:** Java, Spring Boot, REST APIs, JPA/Hibernate, database integration
+- **Databases:** SQL, PostgreSQL, Oracle, relational data modeling
+- **Software Engineering:** Object-oriented programming, Git/GitHub, software architecture, testing
+
+This experience comes primarily from coursework and academic projects, complementing my professional background in IT administration and operations.
+
 ## 📄 Featured Project
 
 ### [Thesis PDF Framework](https://github.com/chrisTechn7/thesis-pdf-framework)
@@ -35,4 +46,4 @@ An open-source framework for creating academic and technical theses from Markdow
 
 I'm particularly interested in IT infrastructure, systems engineering, security, automation, and how AI-assisted tools can improve technical workflows.
 
-My professional focus is **IT operations and infrastructure rather than software development.**
+My professional focus is **IT administration, infrastructure coordination, and technical operations**, complemented by academic experience in **software development, databases, and networking**.
